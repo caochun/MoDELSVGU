@@ -1,0 +1,9 @@
+[submodule "datamodel"]
+        path = datamodel 
+        url = git@github.com:caochun/MoDELSVGU-datamodel.git
+[submodule "JavaOCL"]
+        path = JavaOCL
+        url = git@github.com:caochun/MoDELSVGU-JavaOCL.git
+[submodule "OCL2PSQL"]
+        path = OCL2PSQL
+        url = git@github.com:caochun/MoDELSVGU-OCL2PSQL.git
